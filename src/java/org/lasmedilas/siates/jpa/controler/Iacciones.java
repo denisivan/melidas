@@ -5,7 +5,6 @@
  */
 
 
-/*  Esto es un comentario.... */
 package org.lasmedilas.siates.jpa.controler;
 
 import java.io.Serializable;
