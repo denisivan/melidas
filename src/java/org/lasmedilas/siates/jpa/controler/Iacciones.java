@@ -17,6 +17,8 @@ import org.lasmedilas.siates.jpa.entidades.Entidad;
  * @since 04/10/2015
  * 
  */
+ 
+ /* Cae encima  */
 public interface Iacciones extends Serializable{
     
     public void guardar (Entidad entidad);
